@@ -1,0 +1,56 @@
+.home { font-family: Arial;
+		color:blue;
+		font-size:25px;
+		border:10px solid lightblue;
+		background-color: azure;
+		padding: 50px 0px;
+		margin:-5px;
+		text-align: center;
+		text-shadow: 2px 2px 5px ;
+		}
+	
+.link 	{ background-color: yellow;
+		  font-size: 30px;
+		  text-align: center;}
+
+body { background-image: url("sunshine4.jpg");
+	   background-repeat: no-repeat;
+	   background-position: center;
+	   background-attachment: fixed;
+	   background-size: cover;}
+	   
+.bio { font-family: times new roman;
+	   font-size :20px; 
+	   background-color: lightblue;
+	   text-align: center;
+	   }
+	   
+.bio_gambar { width:600px; height:350px; }
+
+#bio_table  td, th { font-family: arial;
+				 font-size : 20px;
+				 background-color: aqua;
+				 text-align: center;}
+
+#jadwalkuliah_table td,th {font-family: arial;
+						font-size : 20px;
+						background-color: aqua;
+						text-align: center;}
+
+						
+#pendidikan_table	td, th {font-family: arial;
+						font-size : 20px;
+						background-color: aqua;
+						text-align: center;}
+						
+#aktivitas_table	td, th {font-family: arial;
+						font-size : 20px;
+						background-color: aqua;
+						text-align: center;}
+
+.aside img 	{  float:right;
+			   width:300px;
+			   height:300px;
+			   border:60px solid none;
+			   padding:40px;
+			   background-color:none; }
